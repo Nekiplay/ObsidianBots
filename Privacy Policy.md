@@ -6,7 +6,8 @@ Last Updated: [2025-04-28]
 The bot may collect and store the following information when used in a Discord server:  
 - **Server IDs** (for configuration and functionality)  
 - **User IDs** (for commands, moderation, or logging)  
-- **Message content** (only if explicitly required for features like moderation or logging)  
+- **Message content** (only if explicitly required for features like moderation or logging)
+- **Minecraft username** (only if explicitly required for features like reputation)
 
 ## 2. How We Use Data  
 The collected data is used solely for:  
